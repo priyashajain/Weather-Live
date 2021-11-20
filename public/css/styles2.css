@@ -1,0 +1,20 @@
+
+
+body{
+  background-image: linear-gradient(150deg, #FFDEFA, white);
+  font-family: 'Nunito', sans-serif;
+
+}
+.white{
+  color: white;
+}
+.box{
+  background-color: #B983FF;
+  border-radius: 5px;
+  box-shadow: 5px 5px lightgrey;
+}
+.weatherIcon{
+  background-color: white;
+  border-radius: 100%;
+  border: 5px solid lightgrey;
+}
